@@ -39,3 +39,6 @@ To run the visualization:
 **Note: Full dataset too large for GitHub, available upon request.**
 
 This project helped me develop strong skills in turning raw public data into accessible, interactive insights, and I had fun doing it!
+
+
+![Austin Crime Histogram](visualization.png)
