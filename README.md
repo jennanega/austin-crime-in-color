@@ -36,9 +36,9 @@ I designed and coded this visualization using Altair. I handled:
 To run the visualization:
 1. Install the required packages: `pandas`, `altair`
 2. Open the `.ipynb` and sample `.csv` file and run in a Colab or Jupyter environment
-**Note: Full dataset too large for GitHub, available upon request.**
+- **Note: Full dataset too large for GitHub, available upon request.**
 
 This project helped me develop strong skills in turning raw public data into accessible, interactive insights, and I had fun doing it!
 
-
+## Visualization PNG
 ![Austin Crime Histogram](visualization.png)
