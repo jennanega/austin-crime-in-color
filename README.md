@@ -8,7 +8,7 @@ The visualization helps answer the following key questions:
 - When during the day do certain crimes tend to occur?
 - What crimes should residents be most aware of, depending on location or time?
 
-## 🔧 Tools Used
+## Tools Used
 - Python  
 - Altair  
 - pandas  
